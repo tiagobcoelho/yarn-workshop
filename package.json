@@ -1,0 +1,14 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "yarn workshop",
+  "main": "index.js",
+  "author": "Tiago Coelho",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
